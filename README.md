@@ -1,5 +1,5 @@
 # gb-camera-image-saver
-A python utility for reading images from a GameBoy Camera and saving them to your PC!
+A utility for reading images from a GameBoy Camera and saving them to your PC!
 
 # How to Use
 
