@@ -1,4 +1,4 @@
-# gb-camera-image-saver
+# PixelPerfect: The GameBoy Camera Backup Utility 
 A utility for reading images from a GameBoy Camera and saving them to your PC!
 
 # How to Use
